@@ -1,0 +1,10 @@
+listing-bottom-section {
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background: url(../img/course-listing-blue-bg.svg) no-repeat center bottom #4583FF;
+    height: 450px;
+    text-align: center;
+}
